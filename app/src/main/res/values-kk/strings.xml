@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab7</string>
+    <string-array name="string_array">
+        <item>Барыс</item>
+        <item>Леопар</item>
+        <item>Шымпанзе</item>
+        <item>Мырза</item>
+        <item>Тора</item>
+        <item>Жігіт</item>
+        <item>Маусым</item>
+        <item>Васька</item>
+        <item>Мырза</item>
+        <item>Қызы</item>
+        <item>Лео</item>
+        <item>Мырза</item>
+        <item>Кеша</item>
+        <item>Қызыл</item>
+        <item>Кузя</item>
+        <item>Матроскин</item>
+        <item>Қызыл</item>
+        <item>Том</item>
+        <item>Джерри</item>
+        <item>Гарфилд</item>
+        <item>Лео</item>
+
+    </string-array>
+
+    <string name="registration">Đăng ký</string>
+
+    <string name="full_name">Họ và tên</string>
+
+    <string name="full_name_hint">Nhập họ và tên</string>
+
+    <string name="login">Tên đăng nhập</string>
+
+    <string name="login_hint">Nhập tên đăng nhập</string>
+
+    <string name="email">Email</string>
+
+    <string name="email_hint">Nhập email</string>
+
+    <string name="phone">Số điện thoại</string>
+
+    <string name="phone_hint">Nhập số điện thoại</string>
+
+    <string name="password">Mật khẩu</string>
+
+    <string name="password_hint">Nhập mật khẩu</string>
+
+    <string name="repeat_password_hint">Nhập lại mật khẩu</string>
+
+    <string name="birth_date">Ngày sinh</string>
+
+    <string name="birth_date_hint">Nhập ngày sinh</string>
+
+    <string name="item_from_list">Chọn mục từ danh sách</string>
+
+    <string name="agreement">Tôi đồng ý với việc xử lý dữ liệu cá nhân</string>
+
+    <string name="close">Đóng</string>
+</resources>

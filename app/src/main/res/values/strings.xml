@@ -1,0 +1,54 @@
+<resources>
+    <string name="app_name">Lab7</string>
+    <string-array name="string_array">
+        <item>Tiger</item>
+        <item>Leopard</item>
+        <item>Chimpanzee</item>
+        <item>Murza</item>
+        <item>Tora</item>
+        <item>Giggit</item>
+        <item>Maussim</item>
+        <item>Vaska</item>
+        <item>Murza</item>
+        <item>Red</item>
+        <item>Leo</item>
+        <item>Murza</item>
+        <item>Kesha</item>
+        <item>Red</item>
+        <item>Kuzia</item>
+        <item>Matroskin</item>
+        <item>Red</item>
+        <item>Tom</item>
+        <item>Jerry</item>
+        <item>Garfield</item>
+        <item>Leo</item>
+    </string-array>
+
+    <string name="registration">Registration</string>
+
+    <string name="full_name">Full name</string>
+    <string name="full_name_hint">Enter full name</string>
+
+    <string name="login">Login</string>
+    <string name="login_hint">Enter login</string>
+
+    <string name="email">E-mail</string>
+    <string name="email_hint">Enter e-mail</string>
+
+    <string name="phone">Phone number</string>
+    <string name="phone_hint">Enter phone number</string>
+
+    <string name="password">Password</string>
+    <string name="password_hint">Enter password</string>
+    <string name="repeat_password_hint">Repeat password</string>
+
+    <string name="birth_date">Birth date</string>
+    <string name="birth_date_hint">Enter birth date</string>
+
+    <string name="item_from_list">Choose item from list</string>
+
+    <string name="agreement">I agree to the processing of personal data</string>
+
+    <string name="close">Close</string>
+
+</resources>
